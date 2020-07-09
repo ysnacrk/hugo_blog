@@ -2,7 +2,7 @@ baseURL = "https://yasinacierik.com/"
 languageCode = "en-us"
 title = "Yasin"
 theme="archie"
-copyright = "© Athul"
+copyright = "© Yasin"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -10,25 +10,21 @@ paginate=4
 [params]
 	favicon=""
 	og_image="https://raw.githubusercontent.com/athul/archie/master/images/archie-dark.png"
-	mode="auto"
+	mode="light"
 	featherIconsCDN=true
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "My Personal Blog"
 	description = "Archie is a Minimal and Clean theme for Hugo"
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/ysnacrk"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://github.com/athulcajay/"
+url = "https://twitter.com/koka_koala"
 
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
 
 [[menu.main]]
 name = "Home"
@@ -36,7 +32,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Blog"
 url = "/posts"
 weight = 2
 
