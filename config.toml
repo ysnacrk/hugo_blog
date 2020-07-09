@@ -1,8 +1,8 @@
-baseURL = "https://athul.github.io/archie/"
+baseURL = "http://yasinacerik.com/"
 languageCode = "en-us"
-title = "Archie"
+title = "Yasin"
 theme="archie"
-copyright = "© Athul"
+copyright = "© Yasin"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -12,8 +12,8 @@ paginate=4
 	og_image="https://raw.githubusercontent.com/athul/archie/master/images/archie-dark.png"
 	mode="auto"
 	featherIconsCDN=true
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
-	description = "Archie is a Minimal and Clean theme for Hugo"
+	subtitle = "Minimal and Clean "
+	description = ""
 
 [[params.social]]
 name = "GitHub"
