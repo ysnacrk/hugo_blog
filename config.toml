@@ -1,6 +1,6 @@
-baseURL = "https://athul.github.io/archie/"
+baseURL = "http://www.yasinacierik.com"
 languageCode = "en-us"
-title = "Archie"
+title = "Yasin Acierik"
 theme="archie"
 copyright = "© Athul"
 # Code Highlight
@@ -20,17 +20,13 @@ paginate=3 # articles per page
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/ysnacrk"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://github.com/athulcajay/"
+url = "https://twitteri.com/koka_koala"
 
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
 
 # Main menu Items
 
@@ -49,10 +45,6 @@ name = "About"
 url = "/about"
 weight = 3
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
 
 
 
