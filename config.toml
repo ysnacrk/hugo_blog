@@ -1,4 +1,4 @@
-baseURL = "http://yasinacierik.com"
+baseURL = "https://yasinacierik.com/"
 languageCode = "en-us"
 title = "Yasin"
 theme="archie"
@@ -8,7 +8,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 paginate=4
 [params]
-	favicon="https://img.icons8.com/officel/16/000000/chevron-right.png"
+	favicon=""
 	og_image="https://raw.githubusercontent.com/athul/archie/master/images/archie-dark.png"
 	mode="auto"
 	featherIconsCDN=true
