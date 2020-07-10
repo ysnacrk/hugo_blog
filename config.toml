@@ -7,6 +7,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 paginate=4
+googleAnalytics = "UA-172226750-1"
 [params]
 	favicon=""
 	og_image="https://raw.githubusercontent.com/athul/archie/master/images/archie-dark.png"

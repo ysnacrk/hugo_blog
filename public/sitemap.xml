@@ -3,15 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yasinacierik.com/about/</loc>
+    <lastmod>2020-07-09T16:05:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yasinacierik.com/</loc>
+    <lastmod>2020-07-09T16:05:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yasinacierik.com/posts/deneme/</loc>
+    <lastmod>2020-07-09T09:50:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yasinacierik.com/posts/</loc>
+    <lastmod>2020-07-09T09:50:59+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yasinacierik.com/categories/</loc>
   </url>
   
   <url>
     <loc>https://yasinacierik.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yasinacierik.com/</loc>
   </url>
   
 </urlset>
