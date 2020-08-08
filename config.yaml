@@ -1,14 +1,11 @@
-baseURL: https://yasinacierik.com
+baseURL: https://www.yasinacierik.com
 languageCode: en-us
-title: Vanilla
+title: Yasin Acierik | Kişisel Blog
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 
 taxonomies:
   tag: tags
-
-permalinks:
-  post: /:filename/
 
 # See https://feathericons.com/
 # The value of pre is the icon name
@@ -31,7 +28,7 @@ menu:
     url: /about/
     weight: 4
   - name: Projects
-    pre: edit
+    pre: settings
     url: /projects/
     weight: 5
 
@@ -40,7 +37,7 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream.
+  homeText: Welcome to the my blog. Have a look around. Maybe even eat some ice cream.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: false
   katex: true
