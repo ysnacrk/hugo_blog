@@ -1,8 +1,8 @@
 baseURL: https://www.yasinacierik.com
 languageCode: en-us
-title: Yasin Acierik | Kişisel Blog
+title: Yasin Acierik | Personal Blog
 theme: vanilla-bootstrap-hugo-theme
-googleAnalytics: UA-123456789-1
+googleAnalytics: UA-172226750-1
 
 taxonomies:
   tag: tags
@@ -37,7 +37,7 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to the my blog. Have a look around. Maybe even eat some ice cream.
+  homeText: Hi I'm yasin, I'm trying to develop myself in backend technologies, computer graphics and game programming. I created this blog because I love to share information.The topics you will find on this blog will be Linux, Python, C++, Opengl and Web technologies.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: false
   katex: true
