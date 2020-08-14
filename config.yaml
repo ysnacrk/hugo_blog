@@ -37,7 +37,7 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: Hi I'm yasin, I'm trying to develop myself in backend technologies, computer graphics and game programming. I created this blog because I love to share information.The topics you will find on this blog will be Linux, Python, C++, Opengl and Web technologies.
+  homeText: I’m trying to develop myself in backend technologies, Linux administration and networking. As a hobby, I spend time with computer graphics and game programming. I created this blog because I love to share information.The topics you will find on this blog will be Linux, Python, C++, Opengl and Web technologies.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: false
   katex: true
